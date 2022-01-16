@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Wifi Data Sharing</string>
+    <string name="running_label">Running</string>
+    <string name="running_summary_stopped">Start FTP server</string>
+    <string name="running_summary_started">Running at %s</string>
+    <string name="running_summary_failed">First Connect to Wifi</string>
+    <string name="settings_label">Settings</string>
+    <string name="username_label">Username</string>
+    <string name="username_default">admin</string>
+    <string name="password_label">Password</string>
+    <string name="password_default">wifi</string>
+    <string name="show_password_default">false</string>
+    <string name="portnumber_label">Port</string>
+    <string name="portnumber_default">1122</string>
+    <string name="chroot_label">Stay in folder</string>
+    <string name="chroot_default">/</string>
+    <string name="acceptwifi_label">Connection Accepted from Wifi</string>
+    <string name="acceptwifi_default">true</string>
+    <string name="acceptproxy_label">Connection Accepted from Net Proxy</string>
+    <string name="acceptproxy_default">False</string>
+    <string name="wakelock_default">True</string>
+    <string name="notif_server_starting">Starting at %s</string>
+    <string name="notif_title">FTP Server is running</string>
+    <string name="notif_text">Running at %s</string>
+ 	<string name="show_password_label">Show password</string>
+    <string name="cant_get_url">Failed to Retrieve URL</string>
+    <string name="unknown">Unknown</string>
+    <string name="ok">OK</string>
+    <string name="username_validation_error">Invalid Username</string>
+    <string name="password_validation_error">Invalid Password</string>
+    <string name="port_validation_error">Invalid Portnumber</string>
+    <string name="wifi_state_receiver_label">WifiStateReceiver</string>
+    <string name="pst_connecting">Connecting</string>
+    <string name="pst_connected">Connected</string>
+    <string name="pst_failed">Failed</string>
+    <string name="pst_unreachable">Unreachable</string>
+    <string name="pst_disconnected">Disconnected</string>
+    <string name="storage_warning">Storage Not Available</string>
+    <string name="widget_name">Wifi Data Sharing</string>
+    <string name="action_settings">Settings</string>
+    <string name="url_copy">Enter the above address in FTP client of your PC</string>
+</resources>
